@@ -1,4 +1,4 @@
-# AgriPredict: Your Agricultural Forecasting Partner
+# AgriPredict: Your Agricultural Forecasting Partner - Hackthon Project
 * AgriPredict is a web app I built using machine learning, web development to empower agriculture industry.
 * AgriPredict is a revolutionary online platform designed to revolutionize the agricultural industry.
 * By harnessing the power of data analytics and artificial intelligence, we provide farmers with accurate and timely predictions for the crop they should grow in their fields.
@@ -87,9 +87,14 @@ Clone the project
 
 Go to the project directory
 
+
 ```bash
   cd AgriPredict
 ```
 
 ##
 Thankyou for visiting my project. 
+
+Participation Certification of Hackathon -
+<img width="2000" height="1414" alt="Awantika-Ankushe-NWANIKH-participation-certificate" src="https://github.com/user-attachments/assets/e4b8a889-3bff-4f83-a75d-d9f30c64685d" />
+
